@@ -1,0 +1,24 @@
+{
+  "name": "addition-jamesboyd2008",
+  "version": "0.0.1",
+  "description": "fubar",
+  "main": "addition.js",
+  "scripts": {
+    "test": "tap *.tap.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesboyd2008/addition-jamesboyd2008.git"
+  },
+  "keywords": [
+    "addition",
+    "james",
+    "boyd"
+  ],
+  "author": "James Boyd Cody Kendall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamesboyd2008/addition-jamesboyd2008/issues"
+  },
+  "homepage": "https://github.com/jamesboyd2008/addition-jamesboyd2008#readme"
+}
